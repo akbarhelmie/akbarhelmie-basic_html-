@@ -1,0 +1,12 @@
+.gallery{
+    width: 48%;
+    display: inline-block;
+}
+
+.gallery > img {
+    width: 100%
+}
+
+.gallery > div {
+    font-size: 3em; text-align: center;
+}
